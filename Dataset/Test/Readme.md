@@ -1,0 +1,1 @@
+A_Z.pdf - Contained alphabets are written digitally on the laptop keypad. Test images of the individual characters are extracted from the PDF file by cropping each character and saving them in a different PNG file.
