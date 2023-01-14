@@ -21,12 +21,12 @@ Fourier Transform (FT) and Euclidean distance-based OCR method is implemented. I
 
 **At last models accuracy is calculated by number of correct prediction and the number of test subject.**
 
-## [Codes](https://github.com/Lakshay-Bansal/Optical-Character-Recognition-OCR-using-Fourier-Transform-FT)
+## [Codes](https://github.com/Lakshay-Bansal/Optical-Character-Recognition-OCR-using-Fourier-Transform/Codes)
 
 
 
 ## Additional Resources
 
-1. [Overview](https://github.com/Lakshay-Bansal/Optical-Character-Recognition-OCR-using-Fourier-Transform-FT/wiki)
-2. [References](https://github.com/Lakshay-Bansal/Optical-Character-Recognition-OCR-using-Fourier-Transform-FT/wiki/References)
+1. [Overview](https://github.com/Lakshay-Bansal/Optical-Character-Recognition-OCR-using-Fourier-Transform/wiki)
+2. [References](https://github.com/Lakshay-Bansal/Optical-Character-Recognition-OCR-using-Fourier-Transform/wiki/References)
 
