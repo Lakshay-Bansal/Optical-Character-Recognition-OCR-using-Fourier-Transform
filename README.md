@@ -29,6 +29,6 @@ Fourier Transform (FT) and Euclidean distance-based OCR method is implemented. I
 
 ## Additional Resources
 
-1. [Overview](https://github.com/Lakshay-Bansal/Optical-Character-Recognition-OCR-using-Fourier-Transform/wiki)
+1. [Overview](https://github.com/Lakshay-Bansal/Optical-Character-Recognition-OCR-using-Fourier-Transform/wiki/Overview)
 2. [References](https://github.com/Lakshay-Bansal/Optical-Character-Recognition-OCR-using-Fourier-Transform/wiki/References)
 
