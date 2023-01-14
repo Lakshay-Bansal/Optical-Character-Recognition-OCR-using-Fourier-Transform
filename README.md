@@ -3,6 +3,9 @@
 Fourier Transform (FT) and Euclidean distance-based OCR method is implemented. It extracts frequency features of a character such as digits and alphabet. MATLAB has been used as an implementation tool for different preprocessing techniques like cropping, resizing, Edge detection, and filtering purposes.
 
 
+### [Dataset](https://github.com/Lakshay-Bansal/Optical-Character-Recognition-OCR-using-Fourier-Transform/tree/main/Dataset)    [Codes](https://github.com/Lakshay-Bansal/Optical-Character-Recognition-OCR-using-Fourier-Transform/tree/main/Codes)    [Result](https://github.com/Lakshay-Bansal/Optical-Character-Recognition-OCR-using-Fourier-Transform/tree/main/Result)
+
+
 ## Algorithm Steps
 
 * Step-1: Dataset of the handwritten images.
@@ -21,7 +24,6 @@ Fourier Transform (FT) and Euclidean distance-based OCR method is implemented. I
 
 **At last models accuracy is calculated by number of correct prediction and the number of test subject.**
 
-## [Codes](https://github.com/Lakshay-Bansal/Optical-Character-Recognition-OCR-using-Fourier-Transform/Codes)
 
 
 
